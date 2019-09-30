@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ActionBar</string>
+    <string name="proximo">PROXIMO</string>
+    <string name="sair">SAIR</string>
+
+    <style name="proximo">PROXIMO</style>
 </resources>
