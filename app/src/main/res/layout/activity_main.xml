@@ -15,7 +15,7 @@
         android:layout_marginLeft="24dp"
         android:layout_marginTop="32dp"
         android:onClick="onProximo"
-        android:text="Button"
+        android:text="@string/proximo"
         android:visibility="visible"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
